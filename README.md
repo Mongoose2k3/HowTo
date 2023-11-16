@@ -13,9 +13,10 @@
     1. Support Collaboration
     4. Private/Public
     5. Notifications
-    6. Wiki
+    6. Wiki (Q&A, Info, ...)
     7. File storage (25MB largest file)
     8. Markdown (markup language)
+    9. Issue tracker (could be used for action items)
 
 # How to track geographical distribution?
 1. owners of platforms/channels are usually provided with "Analytical" tools/reports
