@@ -1,6 +1,8 @@
 ## Cat
-<img src="https://github.com/Mongoose2k3/Cat/assets/151067484/335b2bf5-f497-47af-b233-6f06246d2c35" width="150"/>
-<meta property="og:image" content="https://github.com/Mongoose2k3/Cat/assets/151067484/335b2bf5-f497-47af-b233-6f06246d2c35">
+<img src="https://github.com/Mongoose2k3/Cat/assets/151067484/335b2bf5-f497-47af-b233-6f06246d2c35" width="150"/> (thumb while it was private)
+
+<img src="https://github.com/Mongoose2k3/Cat/assets/151067484/7f843406-e49e-4f0f-9ade-bb1cbeec029f" width="150"/>
+<meta property="og:image" content="https://github.com/Mongoose2k3/Cat/assets/151067484/7f843406-e49e-4f0f-9ade-bb1cbeec029f">
 
 # How to Share?
 1. Why not use a traditional website?
