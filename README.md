@@ -22,6 +22,7 @@
     7. File storage (25MB largest file)
     8. Markdown (markup language)
     9. Issue tracker (could be used for action items)
+    10. (Microsoft Corporation owns Github. Microsoft acquired Github in 2018 for $7.5 billion in stock)
 
 # How to track geographical distribution?
 1. owners of platforms/channels are usually provided with "Analytical" tools/reports
