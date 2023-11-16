@@ -26,6 +26,7 @@
 # How to track geographical distribution?
 1. owners of platforms/channels are usually provided with "Analytical" tools/reports
 2. can it be done differently?
+3. How can such information be brought into a single dashboard?
 
 # Which Platforms to Use for Video sharing?
 
