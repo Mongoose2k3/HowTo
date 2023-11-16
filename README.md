@@ -5,7 +5,7 @@
 <meta property="og:image" content="https://github.com/Mongoose2k3/Cat/assets/151067484/7f843406-e49e-4f0f-9ade-bb1cbeec029f">
 
 # Which Videos needs to be promoted?
-1. English (at least captions)
+1. English (at least English captions)
 1. Need to have context (Source?, Timestamp, location, ...??)
 1. ???
 
