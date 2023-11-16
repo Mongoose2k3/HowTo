@@ -24,7 +24,7 @@
 
 3. Telegram.? ?
 
-# What plaftorm to use for admin communication
+# What plaftorm to use for admin communications
 1. Discord
 2. Whatsapp?
 
