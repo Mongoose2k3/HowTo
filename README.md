@@ -4,6 +4,11 @@
 <img src="https://github.com/Mongoose2k3/Cat/assets/151067484/7f843406-e49e-4f0f-9ade-bb1cbeec029f" width="150"/>
 <meta property="og:image" content="https://github.com/Mongoose2k3/Cat/assets/151067484/7f843406-e49e-4f0f-9ade-bb1cbeec029f">
 
+# Which Videos needs to be promoted?
+1. English (at least captions)
+1. Need to have context (Source?, Timestamp, location, ...??)
+1. ???
+
 # How to Share?
 1. Why not use a traditional website?
     1. No built-in collaboration,
