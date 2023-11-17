@@ -36,9 +36,10 @@
 # Which Platforms to Use for Video sharing?
 
 1. X.com
-2. TikTok.com
+    1. Graphic content will be blocked (eventually) 
+3. TikTok.com
 
-3. Telegram.? ?
+4. Telegram.? ?
 
 # What plaftorm to use for admin communications
 1. Discord
