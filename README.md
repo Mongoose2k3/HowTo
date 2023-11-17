@@ -15,9 +15,9 @@
     2. notifications, etc...
   
 2. GitHub
-    1. Support Collaboration
+    1. Supports Collaboration
     4. Private/Public
-    5. Notifications
+    5. Notifications (users/admins)
     6. Wiki (Q&A, Info, ...)
     7. File storage (25MB largest file)
     8. Markdown (markup language)
